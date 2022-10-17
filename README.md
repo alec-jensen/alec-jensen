@@ -18,12 +18,11 @@ Archived:
 - [twinkibot](https://github.com/alec-jensen/twinkibot)
 - [Aola Assistant](https://github.com/alec-jensen/aola_assistant)
 
+Other stuff:
+
 - I’m currently learning **Minecraft shader development**
-
 - All of my projects are available at [https://github.com/alec-jensen/](https://github.com/alec-jensen/)
-
 - Ask me about **anything**
-
 - How to reach me **Discord: AlecJ#0001**
 
 <h3 align="left">Connect with me:</h3>
