@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Alec Jensen</h1>
 <h3 align="center">A 15 year old software developer</h3>
+<p align="center"><a href="https://www.alecj.tk/" target="_blank">My Website</a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alec-jensen&label=Profile%20views&color=0e75b6&style=flat" alt="alec-jensen" /> </p>
 
