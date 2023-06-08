@@ -2,6 +2,8 @@
 <h3 align="center">A 15 year old software developer</h3>
 <p align="center"><a href="https://www.alecj.tk/" target="_blank">My Website</a></p>
 
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alec-jensen&theme=transparent"/></a></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alec-jensen&label=Profile%20views&color=0e75b6&style=flat" alt="alec-jensen" /> </p>
 
 <h3 align="center">Languages and Tools:</h3>
