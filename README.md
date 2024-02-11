@@ -35,7 +35,7 @@ Other stuff:
   <li>I’m currently learning **Minecraft shader development**</li>
   <li>All of my projects are available at <a href="https://github.com/alec-jensen/">https://github.com/alec-jensen/</a></li>
   <li>Ask me about <strong>anything</strong></li>
-  <li>How to reach me <strong>Discord: AlecJ#0001</strong></li>
+  <li>How to reach me <strong>Discord: @alec.j</strong></li>
 </ul>
 
 </p>
