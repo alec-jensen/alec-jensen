@@ -1,5 +1,5 @@
 <h1 align="left">Hi , I'm Alec Jensen</h1>
-<h3 align="left">A 15 year old software developer</h3>
+<h3 align="left">A 16 year old software developer</h3>
 <p align="left"><a href="https://www.alecj.tk/" target="_blank">My Website</a></p>
 
 <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alec-jensen&theme=transparent"/></a></p>
