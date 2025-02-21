@@ -1,5 +1,5 @@
 <h1 align="left">Hi , I'm Alec Jensen</h1>
-<h3 align="left">A 16 year old software developer</h3>
+<h3 align="left">A 17 year old software developer</h3>
 <p align="left"><a href="https://www.alecj.tk/" target="_blank">My Website</a></p>
 
 <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alec-jensen&theme=transparent"/></a></p>
@@ -17,29 +17,4 @@ Working on:
   <li><a href="https://github.com/alec-jensen/kidney-bot">kidney bot</a></li>
   <li><a href="https://github.com/alec-jensen/generalutils">GenralUtils</a></li>
   <li><a href="https://github.com/alec-jensen/firescript">Firescript</a></li>
-  <li><a href="https://github.com/whatwareweb/homebase">HomeBase</a></li>
 </ul>
-
-Archived:
-
-<ul>
-  <li><a href="https://github.com/alec-jensen/file-shredder">File Shredder</a></li>
-  <li><a href="https://github.com/alec-jensen/twinkibot">twinkibot</a></li>
-  <li><a href="https://github.com/alec-jensen/aola_assistant">Aola Assistant</a></li>
-</ul>
-
-Other stuff:
-
-<ul>
-  <li>All of my projects are available at <a href="https://github.com/alec-jensen/">https://github.com/alec-jensen/</a></li>
-  <li>Ask me about <strong>anything</strong></li>
-  <li>How to reach me <strong>Discord: @alec.j</strong></li>
-</ul>
-
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.youtube.com/channel/UCU9FTlccsJPGJ8aJllfcNfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alec jensen" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JjWEVXttFR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JjWEVXttFR" height="30" width="40" /></a>
-</p>
-
